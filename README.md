@@ -20,3 +20,7 @@ Este proyecto consiste en el desarrollo de un servicio web RESTful para la gesti
 ## Enlace del video
 https://drive.google.com/drive/folders/1E5j7YcGWS7VRsKfHY1w1gXP6qvA8Otfw?usp=sharing
 
+### 1. Clonar el repositorio
+Abre tu terminal (o Git Bash) y ejecuta el comando de clonación. Puedes usar HTTPS o SSH:
+git clone https://github.com/CF252175/Desafio2-DWF.git
+
