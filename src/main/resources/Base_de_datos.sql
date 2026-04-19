@@ -1,6 +1,6 @@
 -- Crear la base de datos y seleccionarla
-CREATE DATABASE IF NOT EXISTS clinica_db;
-USE clinica_db;
+CREATE DATABASE IF NOT EXISTS CF252175;
+USE CF252175;
 
 -- Crear las tablas con la nueva estructura
 CREATE TABLE profesor (
